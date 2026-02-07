@@ -8,7 +8,7 @@
 
 ## Study Session 1 📅 today
 
-- [ ] Read/watch Domain ___ content 🔼 📅 today
+- [x] Read/watch Domain ___ content 🔼 📅 today ✅ 2026-02-07
 - [ ] Take notes on key concepts 📅 today
 - [ ] Complete hands-on lab (if applicable) 📅 today
 

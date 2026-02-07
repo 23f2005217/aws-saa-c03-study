@@ -1,21 +1,26 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## To Do
 
-- [ ] Morning review: Check dashboard
 - [ ] Study new content (60 min)
 - [ ] Practice questions (20-30)
 - [ ] Evening review: Log progress
 
+
 ## In Progress
 
+- [ ] Morning review: Check dashboard
 - [ ] 
+
 
 ## Done Today
 
 - [ ] 
+
 
 ## This Week
 
@@ -25,16 +30,16 @@ kanban-plugin: board
 - [ ] Domain 1: Data Security
 - [ ] Domain 1: Practice Test
 
+
 ## Blocked/Questions
 
 - [ ] 
 
----
 
-**Quick Links:** [[AWS_Study_Dashboard]] | [[AWS_SAA_C03_Study_Checklist]] | [[AWS_Study_Tasks_Master]]
 
-**Tips:**
-- Move items to "In Progress" when you start
-- Move to "Done Today" when complete
-- Review "This Week" column every Sunday
-- Add questions to "Blocked/Questions" for later research
+
+%% kanban:settings
+```
+{"kanban-plugin":"board"}
+```
+%%
